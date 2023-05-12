@@ -1,3 +1,52 @@
+# 网站
 theme: jekyll-theme-cayman
 title: 佳兴广播站
 description: 佳兴YouTube频道的GitHub数据库
+keywords: 数据库,佳兴广播站,YouTube
+author: 郭竞兴
+language: zh-CN
+timezone: Asia/Shanghai
+
+# 网址
+# url: https://example.com
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# 目录
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# 文章
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link:
+  enable: true # Open external links in new tab
+  field: site # Apply to the whole site
+  exclude: []
+filename_case: 0 # Transform filename (0: original, 1: lowercase, 2: uppercase)
+render_drafts: false # Display draft posts
+post_asset_folder: false # Enable asset folder for posts
+relative_link: false # Use relative URL
+future: true # Display future posts
+
+# 分类 & 标签
+default_category: YouTube
+category_map:
+tag_map:
+
+# 日期 / 时间格式
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+
+# 分页
+## Set per_page to 0 to disable pagination
+per_page: 100
+pagination_dir: page
