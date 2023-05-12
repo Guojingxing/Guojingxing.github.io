@@ -8,7 +8,7 @@
 佳兴广播站的设立是为了记录下湖南祁东人的日常生活。该频道在中国的视频平台[优酷](http://i.youku.com/u/UMTY3Njc1OTg4OA==)、[腾讯](https://v.qq.com/s/videoplus/353643993)上也曾开通相应的分频道，目前已暂停更新[^3]。2021年1月2日，该频道创立了一个[Odysee](https://odysee.com/@JiaxingVideos:f)频道[^4]。
 
 2022年10月26日，佳兴广播站官方Facebook发文宣布，即日起暂停所有中国大陆视频网站平台的投稿，其余平台不受影响。[^3]
-## 历史
+## 历史 {#history}
 ### 发展早期
 自2014年4月“王郭广播站”成立以来[^5]，之后王和郭开始通过一些中国视频平台（如优酷和土豆网）创建和上传视频。首先，他们只是创建一些有关最新新闻评论的视频，比如讲诸如*爱因斯坦和卓别林的故事*等笑话[^5]，或者是拍摄一些搞笑小品如《天气预报》。之后他们开始创作音乐和舞蹈，此后大约两年时间，音乐和娱乐视频成为他们频道的主导。他们的第一个跳舞视频创建于2014年6月8日，在2014年高考期间，王和郭制作了一部30分钟的仿造新闻联播的搞笑视频[^6]。2015年6月、7月，王和郭分别发布了两集脱口秀节目“王郭微逗秀”。在第一集中，他们谈论了每年6月7日至9日举行的高考期间发生的有趣的事情，以及有趣的广告模仿[^7]；而在第二集中，他们讲述了一些有趣的故事和一些小笑话，并邀请了王喜明和雷阳娟两位嘉宾参加他们的节目[^8]。
 
@@ -22,7 +22,7 @@
 
 2021年5月2日，王子瑜翻唱了当天网易云音乐热榜第一名的单曲《[海底](https://youtu.be/ot-HzSpyMN4)》，该歌曲的翻唱MV于同月5日在YouTube和Odysee同时上线[^15][^16]。
 
-## 频道特点
+## 频道特点 {#channel-feature}
 ### 主要特点
 自佳兴自媒体发展约7年以来，频道创立3年以来，该频道已体现出一些特征：
 
@@ -36,8 +36,8 @@
 * **王钊楚的日常视频。** 例如一些翻拍儿歌制作的MV，使用王钊楚的视频或者照片作为MV的视频素材，这些视频记录了王钊楚1至7岁的最佳时光，详见条目“王钊楚”。
 * **旅游，教学，游戏，Vlog视频和其他一些自制视频。** 例如，《[2018年湘西三日游](https://youtu.be/hcxEBrg1Foc)》和《[2019年广州之旅](https://youtu.be/tOqVds5vARI)》是截止2022年该频道中最经典的两部旅游纪录片。比较老的一些纪录片有：《[王和郭的记忆](https://youtu.be/YESHIsn1mgc)》(2014)、《[2014年暑假之行](https://youtu.be/_GcGX28pnhg)》(2014)等。王佳明2012年玩过的任天堂游戏（超级玛丽、兔八哥、彩虹岛）是频道中最古老的视频。
 
-## 外部链接
-### YouTube播放列表
+## 外部链接 {#external-links}
+### YouTube播放列表 {#youtube-playlists}
 #### [制作的视频/演唱的歌曲](https://www.youtube.com/channel/UC9XJQh5K_KtSssnBaW9iHyA/playlists?view=50&sort=dd&shelf_id=1)
 * [佳兴自频道](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnkS2nFlfiyVcdO-rcNnk22)
 * [佳兴音乐/MV合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vlUQgA7-hvpdSk3DBjR8SJ2)
@@ -47,14 +47,14 @@
 * [佳兴电影/预告片合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vmohYEheb7SYfWxbvcGhW4T)
 * [佳兴纯享版翻唱音乐合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vm8GLUCbXxNkx53mOnFRgph)
 
-#### [王钊楚视频专辑](https://www.youtube.com/channel/UC9XJQh5K_KtSssnBaW9iHyA/playlists?view=50&sort=dd&shelf_id=4)
+#### [王钊楚视频专辑](https://www.youtube.com/channel/UC9XJQh5K_KtSssnBaW9iHyA/playlists?view=50&sort=dd&shelf_id=4) {#wzc-playlists}
 * [王钊楚视频特辑 - 成长轨迹频道](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnRbOZGtoX-1ri7Q9_S4v2t)
 * [【官方播放列表】2017年王钊楚暑假七天乐（5集全）](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnx3RvxuXBOcWE_eo3xd1Nw)
 * [【官方播放列表】王钊楚的日常(2017)](https://www.youtube.com/playlist?list=PLr2zN-4ce5vlDv6QRqnHaxju_XuwhzoEM)
 * [王钊楚2019年6月](https://www.youtube.com/playlist?list=PLr2zN-4ce5vkCidP_DjgUuIUZgN8RuqwJ)
 * [【官方列表】王钊楚2020超长寒假五天乐](https://www.youtube.com/playlist?list=PLr2zN-4ce5vmsP1CT2mAAHA9YdLSErAwN)
 
-### 主要MV
+### 主要MV {#MV}
 舞蹈类：
 #### 2014年(舞蹈)
 * [《江南Style》（骑马舞）](https://youtu.be/RujOVzzXVDM)
@@ -116,7 +116,7 @@
 #### 2021年
 * [祁阳双龙峡、归阳状元桥一日游](https://www.youtube.com/watch?v=XrwPi9FG8Fo&list=PLr2zN-4ce5vlyiQoy02MnPBxd_ptagJkz&index=27)
 
-### 王钊楚视频合集
+### 王钊楚视频合集 {#wzc-videos}
 #### 纪录片、短片系列
 
 | 标题 | 年份 | 类型 | 时长 |
