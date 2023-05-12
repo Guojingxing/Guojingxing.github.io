@@ -44,6 +44,7 @@
 * [佳兴表演秀合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnSbda3BuHwjevcau7UczbV)
 * [佳兴电影/预告片合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vmohYEheb7SYfWxbvcGhW4T)
 * [佳兴纯享版翻唱音乐合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vm8GLUCbXxNkx53mOnFRgph)
+
 #### [王钊楚视频专辑](https://www.youtube.com/channel/UC9XJQh5K_KtSssnBaW9iHyA/playlists?view=50&sort=dd&shelf_id=4)
 * [王钊楚视频特辑 - 成长轨迹频道](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnRbOZGtoX-1ri7Q9_S4v2t)
 * [【官方播放列表】2017年王钊楚暑假七天乐（5集全）](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnx3RvxuXBOcWE_eo3xd1Nw)
