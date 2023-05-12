@@ -8,7 +8,7 @@
 佳兴广播站的设立是为了记录下湖南祁东人的日常生活。该频道在中国的视频平台[优酷](http://i.youku.com/u/UMTY3Njc1OTg4OA==)、[腾讯](https://v.qq.com/s/videoplus/353643993)上也曾开通相应的分频道，目前已暂停更新[^3]。2021年1月2日，该频道创立了一个[Odysee](https://odysee.com/@JiaxingVideos:f)频道[^4]。
 
 2022年10月26日，佳兴广播站官方Facebook发文宣布，即日起暂停所有中国大陆视频网站平台的投稿，其余平台不受影响。[^3]
-## 历史 {#history}
+## <span id="history">历史</span>
 ### 发展早期
 自2014年4月“王郭广播站”成立以来[^5]，之后王和郭开始通过一些中国视频平台（如优酷和土豆网）创建和上传视频。首先，他们只是创建一些有关最新新闻评论的视频，比如讲诸如*爱因斯坦和卓别林的故事*等笑话[^5]，或者是拍摄一些搞笑小品如《天气预报》。之后他们开始创作音乐和舞蹈，此后大约两年时间，音乐和娱乐视频成为他们频道的主导。他们的第一个跳舞视频创建于2014年6月8日，在2014年高考期间，王和郭制作了一部30分钟的仿造新闻联播的搞笑视频[^6]。2015年6月、7月，王和郭分别发布了两集脱口秀节目“王郭微逗秀”。在第一集中，他们谈论了每年6月7日至9日举行的高考期间发生的有趣的事情，以及有趣的广告模仿[^7]；而在第二集中，他们讲述了一些有趣的故事和一些小笑话，并邀请了王喜明和雷阳娟两位嘉宾参加他们的节目[^8]。
 
@@ -22,7 +22,7 @@
 
 2021年5月2日，王子瑜翻唱了当天网易云音乐热榜第一名的单曲《[海底](https://youtu.be/ot-HzSpyMN4)》，该歌曲的翻唱MV于同月5日在YouTube和Odysee同时上线[^15][^16]。
 
-## 频道特点 {#channel-feature}
+## <span id="channel-feature">频道特点</span>
 ### 主要特点
 自佳兴自媒体发展约7年以来，频道创立3年以来，该频道已体现出一些特征：
 
@@ -36,8 +36,8 @@
 * **王钊楚的日常视频。** 例如一些翻拍儿歌制作的MV，使用王钊楚的视频或者照片作为MV的视频素材，这些视频记录了王钊楚1至7岁的最佳时光，详见条目“王钊楚”。
 * **旅游，教学，游戏，Vlog视频和其他一些自制视频。** 例如，《[2018年湘西三日游](https://youtu.be/hcxEBrg1Foc)》和《[2019年广州之旅](https://youtu.be/tOqVds5vARI)》是截止2022年该频道中最经典的两部旅游纪录片。比较老的一些纪录片有：《[王和郭的记忆](https://youtu.be/YESHIsn1mgc)》(2014)、《[2014年暑假之行](https://youtu.be/_GcGX28pnhg)》(2014)等。王佳明2012年玩过的任天堂游戏（超级玛丽、兔八哥、彩虹岛）是频道中最古老的视频。
 
-## 外部链接 {#external-links}
-### YouTube播放列表 {#youtube-playlists}
+## <span id="external-links">外部链接</span>
+### <span id="youtube-playlists">YouTube播放列表</span>
 #### [制作的视频/演唱的歌曲](https://www.youtube.com/channel/UC9XJQh5K_KtSssnBaW9iHyA/playlists?view=50&sort=dd&shelf_id=1)
 * [佳兴自频道](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnkS2nFlfiyVcdO-rcNnk22)
 * [佳兴音乐/MV合集](https://www.youtube.com/playlist?list=PLr2zN-4ce5vlUQgA7-hvpdSk3DBjR8SJ2)
@@ -54,7 +54,7 @@
 * [王钊楚2019年6月](https://www.youtube.com/playlist?list=PLr2zN-4ce5vkCidP_DjgUuIUZgN8RuqwJ)
 * [【官方列表】王钊楚2020超长寒假五天乐](https://www.youtube.com/playlist?list=PLr2zN-4ce5vmsP1CT2mAAHA9YdLSErAwN)
 
-### 主要MV {#MV}
+### <span id="MV">主要MV</span>
 舞蹈类：
 #### 2014年(舞蹈)
 * [《江南Style》（骑马舞）](https://youtu.be/RujOVzzXVDM)
@@ -116,78 +116,79 @@
 #### 2021年
 * [祁阳双龙峡、归阳状元桥一日游](https://www.youtube.com/watch?v=XrwPi9FG8Fo&list=PLr2zN-4ce5vlyiQoy02MnPBxd_ptagJkz&index=27)
 
-### 王钊楚视频合集 {#wzc-videos}
+### <span id="wzc-videos">王钊楚视频合集</span>
 #### 纪录片、短片系列
 
 | 标题 | 年份 | 类型 | 时长 |
 |---|---|---|---|
-| 好汉歌 | 2017 | 卡拉OK | 4分钟 |
-| 王钊楚祁东一日游 | 2017 | Vlog | 27分钟 |
-| 王钊楚游石门水库 | 2017 | Vlog | 23分钟 |
-| 王钊楚(纪录片) | 2017 | 纪录片 | 62分钟 |
-| 2017年王钊楚暑假七天乐（5集） | 2017 | 长Vlog | 188分钟（3小时） |
-| 王钊楚的日常（3集） | 2017 | Vlog | 59分钟（1小时） |
-| 游深圳（2018年5月） | 2018 | Vlog | 3分钟 |
-| 游深圳博物馆 | 2018 | Vlog | 6分钟 |
-| 王钊楚祁东街心公园商场一日游 | 2019 | Vlog | 14分钟 |
-| 王钊楚去祁东火车站接爸爸妈妈 | 2019 | Vlog | 9分钟 |
-| 王钊楚微脱口秀 | 2019 | Vlog | 2分钟 |
-| 2019年王喜明和王钊楚游祁东水漓坊水上乐园 | 2019 | Vlog | 13分钟 |
-| 王钊楚2020超长寒假五天乐 | 2020 | 长Vlog | 90分钟 |
-| 王钊楚的一天(多集) | 2020 | 照片合集 | 8分钟 |
+| [好汉歌](https://youtu.be/rPEA8gJICc4) | 2017 | 卡拉OK | 4分钟 |
+| [王钊楚祁东一日游](https://youtu.be/OY3vbGYW2Cg) | 2017 | Vlog | 27分钟 |
+| [王钊楚游石门水库](https://youtu.be/5mj16qwkGQs) | 2017 | Vlog | 23分钟 |
+| [王钊楚(纪录片)](https://youtu.be/durCJsSyEtk) | 2017 | 纪录片 | 62分钟 |
+| [2017年王钊楚暑假七天乐](https://www.youtube.com/playlist?list=PLr2zN-4ce5vnx3RvxuXBOcWE_eo3xd1Nw)（5集） | 2017 | 长Vlog | 188分钟（3小时） |
+| [王钊楚的日常](https://www.youtube.com/playlist?list=PLr2zN-4ce5vlDv6QRqnHaxju_XuwhzoEM)（3集） | 2017 | Vlog | 59分钟（1小时） |
+| [游深圳（2018年5月）](https://youtu.be/bqlR2d5NoHo) | 2018 | Vlog | 3分钟 |
+| [游深圳博物馆](https://youtu.be/5dshvTC-dYc) | 2018 | Vlog | 6分钟 |
+| [王钊楚祁东街心公园商场一日游](https://youtu.be/rBSmzEii-qc) | 2019 | Vlog | 14分钟 |
+| [王钊楚去祁东火车站接爸爸妈妈](https://youtu.be/3rHV8FDWa6c) | 2019 | Vlog | 9分钟 |
+| [王钊楚微脱口秀](https://youtu.be/7CRpmql3ZRQ) | 2019 | Vlog | 2分钟 |
+| [2019年王喜明和王钊楚游祁东水漓坊水上乐园](https://youtu.be/gWNwJRVtpdc) | 2019 | Vlog | 13分钟 |
+| [王钊楚2020超长寒假五天乐](https://youtu.be/H7gE4j2-qFQ) | 2020 | 长Vlog | 90分钟 |
+| [王钊楚的一天](https://youtu.be/oKDBBCxRv-Q)（多集） | 2020 | 照片合集 | 8分钟 |
 
 #### 文艺表演
 
 | 标题 | 日期 | 地点 |
 |---|---|---|
-| 蓝天下的爱 | 2019年6月1日 | 祁东县太和堂小精灵幼儿园 |
-| 我们大家做的好 | 2019年6月1日 | 祁东县太和堂小精灵幼儿园 |
-| 国家 | 2021年1月1日 | 祁东县楚源幼儿园（莲花园） |
-| 就是我 | 2021年6月1日 | 祁东县楚源幼儿园（莲花园） |
+| [蓝天下的爱](https://youtu.be/mhT1MKL1Cco) | 2019年6月1日 | 祁东县太和堂小精灵幼儿园 |
+| [我们大家做的好](https://youtu.be/mhT1MKL1Cco) | 2019年6月1日 | 祁东县太和堂小精灵幼儿园 |
+| [国家](https://youtu.be/eIYvcoEb_iI) | 2021年1月1日 | 祁东县楚源幼儿园（莲花园） |
+| [就是我](https://youtu.be/0Zmi6YezAAQ) | 2021年6月1日 | 祁东县楚源幼儿园（莲花园） |
 
 #### 儿歌系列
-* 《王钊楚：爱我你就抱抱我》
-* 《王钊楚：春天的风》
-* 《王钊楚：哆啦A梦》
+* 《[王钊楚：爱我你就抱抱我](https://youtu.be/rM2-JAyXDw0)》
+* 《[王钊楚：春天的风](https://youtu.be/EhBhMxwPYm4)》
+* 《[王钊楚：哆啦A梦](https://youtu.be/_wVp7sR7r9U)》
 
 #### 照片/视频合集
 
 | 标题 | 年份 | 备注 |
 |---|---|---|
-| **爱我你就抱抱我** | 2017 | 王钊楚第一部MV，**2岁合集** |
-| 哆啦A梦（日语） | 2017 | 中日双语字幕 |
+| **[爱我你就抱抱我](https://youtu.be/rM2-JAyXDw0)** | 2017 | 王钊楚第一部MV，**2岁合集** |
+| [哆啦A梦](https://youtu.be/_wVp7sR7r9U)（日语） | 2017 | 中日双语字幕 |
 | [让我们荡起双桨](https://odysee.com/@JiaxingVideos:f/WangZhaochu_Let%27s-Sway-Twin-Oars_20170722:0) | 2017 | 慢镜头合集 |
-| 随他吧（25种语言） | 2017 | 多语言字幕 |
-| 小白兔乖乖 | 2017 |  |
-| 两只老虎 | 2017 |  |
-| **明天会更好** | 2018 | **3岁合集** |
-| 幸福拍手歌 | 2019 |  |
-| **我是小宝贝** | 2019 | **4岁合集** |
-| 春天的风 | 2020 | 《王钊楚超长寒假》电影主题曲 |
-| **Schnappi（小鳄鱼之歌）（德语）** | 2020 | **5岁合集** |
-| 一声恭喜大家好 | 2021 |  |
-| 说不出再见（粤语） | 2021 |  |
-| 男儿当自强（粤语） | 2021 |  |
-| 慈母心（闽南语） | 2021 | 母子照片合集 |
-| 欢喜就好（闽南语） | 2021 |  |
-| 父子情深（闽南语） | 2021 | 父子照片合集 |
-| 真的爱你（粤语） | 2021 | 5岁照片合集 |
-| 好好生活就是美好生活 | 2022 | 2021年度照片合集 |
-| 这世界那么多人 | 2022 | 2019-2021年照片合集 |
-| 爱情恰恰恰（闽南语） | 2022 | 舞蹈合集 |
-| 爱拼才会赢（闽南语） | 2022 | 舞蹈合集2 |
-| 孤勇者 | 2022 | 2017-2022年视频合集 |
+| [随他吧](https://youtu.be/k_ytChCtJAQ)（25种语言） | 2017 | 多语言字幕 |
+| [小白兔乖乖](https://youtu.be/L0OduijCfD4) | 2017 |  |
+| [两只老虎](https://youtu.be/Yp-Pgbg8cQQ) | 2017 |  |
+| **[明天会更好](https://youtu.be/RT2BTjOmNQY)** | 2018 | **3岁合集** |
+| [幸福拍手歌](https://youtu.be/wux2N2QPCks) | 2019 |  |
+| **[我是小宝贝](https://youtu.be/ZJLACyEYd_o)** | 2019 | **4岁合集** |
+| [春天的风](https://youtu.be/EhBhMxwPYm4) | 2020 | 《王钊楚超长寒假》电影主题曲 |
+| **[Schnappi（小鳄鱼之歌）](https://youtu.be/KL8kE-7dEbM)（德语）** | 2020 | **5岁合集** |
+| [一声恭喜大家好](https://youtu.be/m3AhwjFDi5c) | 2021 |  |
+| [说不出再见](https://youtu.be/goGNRROj7m0)（粤语） | 2021 |  |
+| [男儿当自强](https://youtu.be/5awD2xYBiiM)（粤语） | 2021 |  |
+| [慈母心](https://youtu.be/7sgR3bz5nXQ)（闽南语） | 2021 | 母子照片合集 |
+| [欢喜就好](https://youtu.be/s7dgfHCg8Ac)（闽南语） | 2021 |  |
+| [父子情深](https://youtu.be/2t4QRLQMIcw)（闽南语） | 2021 | 父子照片合集 |
+| [真的爱你](https://youtu.be/MOnB5bk4Woo)（粤语） | 2021 | 5岁照片合集 |
+| [好好生活就是美好生活](https://youtu.be/YSjFEpbz3AI) | 2022 | 2021年度照片合集 |
+| [这世界那么多人](https://youtu.be/3baC48ITgF4) | 2022 | 2019-2021年照片合集 |
+| [爱情恰恰恰](https://youtu.be/tqDS_L5ZK7Q)（闽南语） | 2022 | 舞蹈合集 |
+| [爱拼才会赢](https://youtu.be/tFymdr7xq9M)（闽南语） | 2022 | 舞蹈合集2 |
+| [孤勇者](https://youtu.be/hO25pZzbQAY) | 2022 | 2017-2022年视频合集 |
 
 
 #### VLOG视频
 
 | 标题 | 日期 | 地点 |
 |---|---|---|
-| 友阿广场吃德庄火锅 | 2022年11月15日 | 祁东友阿广场 |
-| 画中国地图 | 2022年11月18日 | 楚杰路 |
-| 画小熊维尼和跳跳虎 | 2022年11月20日 | 楚杰路 |
-| 画王子瑜 | 2022年11月22日 | 楚杰路 |
-| 画熊出没 | 2022年11月23日 | 楚杰路 |
+| [友阿广场吃德庄火锅](https://youtu.be/1chH-7lyjhg) | 2022年11月15日 | 祁东友阿广场 |
+| [画中国地图](https://youtu.be/jEpc7Pfk52o) | 2022年11月18日 | 楚杰路 |
+| [画小熊维尼和跳跳虎](https://youtu.be/1OWaGjgx-nE) | 2022年11月20日 | 楚杰路 |
+| [画王子瑜](https://youtu.be/0smQzDW0QKQ) | 2022年11月22日 | 楚杰路 |
+| [画熊出没](https://youtu.be/oX1DRy31PDc) | 2022年11月23日 | 楚杰路 |
+
 
 [^1]: [佳兴广播站YouTube频道](https://youtube.com/@jiaxingvideos)，YouTube
 [^2]: [王喜明雷阳娟婚礼新闻联播](https://youtu.be/pdfU_SZjHH0)，YouTube
