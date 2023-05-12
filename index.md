@@ -54,13 +54,12 @@
 
 ### 主要MV
 舞蹈类：
-
 #### 2014年(舞蹈)
 * [《江南Style》（骑马舞）](https://youtu.be/RujOVzzXVDM)
 * [《小苹果》](https://www.youtube.com/watch?v=9lF6CuS08dk&list=PLr2zN-4ce5vlUQgA7-hvpdSk3DBjR8SJ2&index=2)
 * [《小苹果2》](https://www.youtube.com/watch?v=yuMnBYaXuh0&list=PLr2zN-4ce5vlUQgA7-hvpdSk3DBjR8SJ2&index=3)
-歌曲类(按时间顺序)：
 
+歌曲类(按时间顺序)：
 #### 2017年
 * [【自制MV】曾经的你](https://www.youtube.com/watch?v=9KgD3SvID14&list=PLr2zN-4ce5vlUQgA7-hvpdSk3DBjR8SJ2&index=14)
 * [【吉他弹唱】老男孩](https://www.youtube.com/watch?v=SvU0pKT_PxA&list=PLr2zN-4ce5vlUQgA7-hvpdSk3DBjR8SJ2&index=19)
