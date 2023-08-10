@@ -12,7 +12,6 @@ timezone: Asia/Shanghai
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-baseurl: "/guojingxing.github.io"
 
 # 目录
 source_dir: source
